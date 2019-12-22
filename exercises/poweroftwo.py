@@ -1,3 +1,5 @@
+"""Write a Python program to check if a given positive integer is a power of two."""
+
 import math
 
 NUMBER = int(input("Enter a number: "))
